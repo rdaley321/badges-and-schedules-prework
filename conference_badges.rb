@@ -8,3 +8,6 @@ def batch_badge_creator(array)
   array.collect{|x| "Hello, my name is #{x}."}
 end
 
+def assign_rooms(array)
+  
+end
