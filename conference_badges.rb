@@ -18,4 +18,7 @@ def printer
   batch_badge_creator.each |x| do
     puts x
   end
+  assign_rooms.each |x| do
+    puts x
+  end
 end
