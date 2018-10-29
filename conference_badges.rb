@@ -1,5 +1,5 @@
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-def conference_badges 
+def badge_maker(name) 
   
 end
